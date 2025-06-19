@@ -1,6 +1,6 @@
 # Hey, I'm Shaun
 
-# 💫 About Me:
+## 💫 About Me:
 <br>👋 A student at the University of Toronto majoring in Computer Science<br>💻 I work with Python, SQL, and C — and currently learning ML.<br>📊 Passionate about financial analysis, investing, and building data-driven projects.<br>🌱 Always exploring new tools and frameworks to level up my skills in finance and tech.<br>
 
 
